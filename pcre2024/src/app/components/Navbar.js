@@ -25,7 +25,7 @@ const Navbar = () => {
         <div className="font-semibold text-2xl grow z-10 text-white">
           <div className="flex flex-col bg-[#022851] w-fit p-2">
             <span className="text-center">PCRE</span>
-            <span className="text-center">2025</span>
+            <span className="text-center">2026</span>
           </div>
         </div>
         <div className="z-10 flex items-center">
